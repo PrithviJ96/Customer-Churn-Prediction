@@ -78,7 +78,6 @@ By identifying high-risk customers, companies can take proactive steps to improv
 Cross Validation Scores:
 
 
-
 Training Decision Tree, Random Forest, XGBoost with default parameters
 
  * Decision Tree cross-validation accuracy:0.78
@@ -89,15 +88,8 @@ Training Decision Tree, Random Forest, XGBoost with default parameters
 
 Random Forest gives the highest accuracy compared to other models with 84% and we use it to predict churn.
 
+Accuracy Score: 0.7785663591199432
 
-
-\----------------------------------------------------------------------
-
-Accuracy Score:
-
-&#x20;0.7785663591199432
-
-\----------------------------------------------------------------------
 
 Confusion Matrix:
 
@@ -105,7 +97,6 @@ Confusion Matrix:
 
 &#x20;\[154 219]]
 
-\----------------------------------------------------------------------
 
 Classificiation Report:
 
