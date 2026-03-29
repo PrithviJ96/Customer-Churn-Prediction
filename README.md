@@ -45,18 +45,17 @@ By identifying high-risk customers, companies can take proactive steps to improv
    * Applied encoding techniques
 4. **Modeling**
    * Trained multiple models:
-
-    * Logistic Regression
-    * Random Forest
-    * XGBoost
-  * Applied SMOTE to handle class imbalance
+      * Logistic Regression
+      * Random Forest
+      * XGBoost
+   * Applied SMOTE to handle class imbalance
 5. **Evaluation**
    * Compared models using:
 
-    * Accuracy
-    * Precision
-    * Recall
-    * F1-score
+      * Accuracy
+      * Precision
+      * Recall
+      * F1-score
 
 
 ##  Key Insights
