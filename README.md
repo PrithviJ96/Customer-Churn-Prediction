@@ -33,38 +33,38 @@ By identifying high-risk customers, companies can take proactive steps to improv
 ##  Project Workflow
 
 1. **Data Cleaning**
-  * Handled missing values
-  * Converted data types
-  * Encoded categorical variables
+   * Handled missing values
+   * Converted data types
+   * Encoded categorical variables
 2. **Exploratory Data Analysis (EDA)**
-  * Analyzed churn distribution
-  * Identified key trends and correlations
-  * Visualized important features
+   * Analyzed churn distribution
+   * Identified key trends and correlations
+   * Visualized important features
 3. **Feature Engineering**
-  * Created meaningful variables
-  * Applied encoding techniques
+   * Created meaningful variables
+   * Applied encoding techniques
 4. **Modeling**
-  * Trained multiple models:
+   * Trained multiple models:
 
-   * Logistic Regression
-   * Random Forest
-   * XGBoost
- * Applied SMOTE to handle class imbalance
+    * Logistic Regression
+    * Random Forest
+    * XGBoost
+  * Applied SMOTE to handle class imbalance
 5. **Evaluation**
- * Compared models using:
+   * Compared models using:
 
-   * Accuracy
-   * Precision
-   * Recall
-   * F1-score
+    * Accuracy
+    * Precision
+    * Recall
+    * F1-score
 
 
 ##  Key Insights
 
- * Customers with **month-to-month contracts** are more likely to churn
- * **Higher monthly charges** are associated with higher churn rates
- * Customers with **long-term contracts** show significantly lower churn
- * Certain services (e.g., online security) reduce churn likelihood
+  * Customers with **month-to-month contracts** are more likely to churn
+  * **Higher monthly charges** are associated with higher churn rates
+  * Customers with **long-term contracts** show significantly lower churn
+  * Certain services (e.g., online security) reduce churn likelihood
 
 
 
@@ -169,9 +169,9 @@ weighted avg       0.78      0.78      0.78      1409
 
 ##  Future Improvements
 
-* Hyperparameter tuning
-* Add real-time prediction pipeline
-* Improve feature engineering
+  * Hyperparameter tuning
+  * Add real-time prediction pipeline
+  * Improve feature engineering
 
 
 
@@ -182,7 +182,7 @@ The insights and model can help telecom companies **reduce customer loss and imp
 
 
 
-## 👤 Author
+##  Author
 
 Prithvi Raj
 GitHub: https://github.com/PrithviJ96
