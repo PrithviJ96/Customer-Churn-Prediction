@@ -36,6 +36,7 @@ By identifying high-risk customers, companies can take proactive steps to improv
    * Handled missing values
    * Converted data types
    * Encoded categorical variables
+     
 **2. Exploratory Data Analysis (EDA)**
    * Analyzed churn distribution
    * Identified key trends and correlations
