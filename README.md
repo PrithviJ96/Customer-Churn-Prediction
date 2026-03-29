@@ -101,25 +101,20 @@ Random Forest gives the highest accuracy compared to other models with 84% and w
 
 **Classificiation Report:**
 
-&#x20;              precision    recall  f1-score   support
+              precision    recall  f1-score   support
+
+
+          0       0.85      0.85      0.85      1036
+
+          1       0.58      0.59      0.58       373
 
 
 
-&#x20;          0       0.85      0.85      0.85      1036
+   accuracy                           0.78      1409
 
-&#x20;          1       0.58      0.59      0.58       373
-
-
-
-&#x20;   accuracy                           0.78      1409
-
-&#x20;  macro avg       0.72      0.72      0.72      1409
+  macro avg       0.72      0.72      0.72      1409
 
 weighted avg       0.78      0.78      0.78      1409
-
-\----------------------------------------------------------------------
-
-
 
 
 
