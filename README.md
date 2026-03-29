@@ -110,12 +110,11 @@ Random Forest gives the highest accuracy compared to other models with 84% and w
 
 
 
+    accuracy                           0.78      1409
 
-    accuracy                            0.78      1409
+   macro avg      0.72      0.72       0.72      1409
 
-   macro avg       0.72     0.72        0.72      1409
-
- weighted avg      0.78     0.78        0.78      1409
+weighted avg      0.78      0.78       0.78      1409
 
 
 
