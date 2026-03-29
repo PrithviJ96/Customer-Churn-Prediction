@@ -92,11 +92,8 @@ Random Forest gives the highest accuracy compared to other models with 84% and w
 
 
 **Confusion Matrix:**
-
-\[\[878 158]
-
+[[878 158]
 [154 219]]
-
 
 **Classificiation Report:**
 
