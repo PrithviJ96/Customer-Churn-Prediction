@@ -89,12 +89,15 @@ Training Decision Tree, Random Forest, XGBoost with default parameters
 Random Forest gives the highest accuracy compared to other models with 84% and we use it to predict churn.
 
 **Accuracy Score:** 
+
   0.7785663591199432
 
 
 **Confusion Matrix:**
-\[[878 158]
-\[154 219]]
+
+[[878 158]
+
+[154 219]]
 
 **Classificiation Report:**
 
