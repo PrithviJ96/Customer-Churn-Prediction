@@ -1,6 +1,6 @@
-# 📊 Customer Churn Prediction
+# Customer Churn Prediction
 
-## 📌 Project Overview
+##  Project Overview
 
 Customer churn is a critical problem in the telecom industry, as losing customers directly impacts revenue.
 This project aims to **predict whether a customer will churn** based on their demographic and service usage data.
@@ -9,7 +9,7 @@ By identifying high-risk customers, companies can take proactive steps to improv
 
 
 
-## 🎯 Objectives
+##  Objectives
 
 * Analyze customer data to identify churn patterns
 * Perform exploratory data analysis (EDA)
@@ -18,7 +18,7 @@ By identifying high-risk customers, companies can take proactive steps to improv
 
 
 
-## 📂 Dataset
+##  Dataset
 
 * Source: Telco Customer Churn dataset
 * Contains information about:
@@ -30,7 +30,7 @@ By identifying high-risk customers, companies can take proactive steps to improv
 
 
 
-## 🧠 Project Workflow
+##  Project Workflow
 
 1. **Data Cleaning**
 * Handled missing values
@@ -60,7 +60,7 @@ By identifying high-risk customers, companies can take proactive steps to improv
 
 
 
-## 📈 Key Insights
+##  Key Insights
 
 * Customers with **month-to-month contracts** are more likely to churn
 * **Higher monthly charges** are associated with higher churn rates
@@ -69,7 +69,7 @@ By identifying high-risk customers, companies can take proactive steps to improv
 
 
 
-## 🤖 Model Performance
+##  Model Performance
 
 
 
@@ -129,7 +129,7 @@ weighted avg       0.78      0.78      0.78      1409
 
 
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 * Python
 * Pandas, NumPy
@@ -140,7 +140,7 @@ weighted avg       0.78      0.78      0.78      1409
 
 
 
-## ⚙️ How to Run
+##  How to Run
 
 1. Clone the repository:
 
@@ -168,7 +168,7 @@ weighted avg       0.78      0.78      0.78      1409
 
 
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Hyperparameter tuning
 * Add real-time prediction pipeline
@@ -176,7 +176,7 @@ weighted avg       0.78      0.78      0.78      1409
 
 
 
-## 📌 Conclusion
+##  Conclusion
 
 This project demonstrates how machine learning can be applied to **predict customer churn and support business decision-making**.
 The insights and model can help telecom companies **reduce customer loss and improve retention strategies**.
