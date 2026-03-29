@@ -33,7 +33,7 @@ By identifying high-risk customers, companies can take proactive steps to improv
 ##  Project Workflow
 
 **1. Data Cleaning**
-    * Handled missing values
+    - Handled missing values
     * Converted data types
     * Encoded categorical variables
 **2. Exploratory Data Analysis (EDA)**
