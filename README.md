@@ -41,15 +41,18 @@ By identifying high-risk customers, companies can take proactive steps to improv
    * Analyzed churn distribution
    * Identified key trends and correlations
    * Visualized important features
+     
 **3. Feature Engineering**
    * Created meaningful variables
    * Applied encoding techniques
+     
 **4. Modeling**
    * Trained multiple models:
       * Logistic Regression
       * Random Forest
       * XGBoost
    * Applied SMOTE to handle class imbalance
+     
 **5. Evaluation**
    * Compared models using:
 
